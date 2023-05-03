@@ -1,0 +1,24 @@
+1. 선행연구 정리하기 - 다른 논문참고
+ 1- RF SVM 예측
+ 2- Variable Importance
+ 3- Permutation Importance
+
+2. MACRO 데이터 쓴 논문 참고 -> 차분, 명칭 등 고려하기
+
+일 3. 기술적분석 지표 식 쓰기 - 다른 논문참고(이재응, ) / latex로 해놓기
+
+3. 예측변수 기초통계량
+
+4. 결과: 표 그림
+
+5. 설명쓰기
+일 1 - LR, SVM, RF : 김승현 박석진
+ 2 - Permutation Importance: haq, dabeer, sklearn
+ 3- Clustering VI: De prado 
+ 4 - Hierarchical Clustering: 
+일 5- 점수 성능: 박석진, Patel
+ 6- 
+
+6. 서론 시작 - 논문참고(1.머신러닝예측, 2.피쳐중요도연구)
+
+
